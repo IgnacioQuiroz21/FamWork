@@ -58,7 +58,7 @@ p {
     position: relative;
     font-size: 18px;
     font-weight: 500;
-    color: #000;
+    color: #dba252;
     letter-spacing: 0.5px;
     display: inline-block;
     padding: 15px 20px;
@@ -69,8 +69,8 @@ p {
 /* Buttons */
 
 .main-button a {
-    background-color: #1eff008a;
-    color: rgba(255, 255, 255, 0);
+    background-color: #dda259;
+    color: #000000;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
@@ -348,7 +348,7 @@ a.menu-link { display: none; }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #1eff008a;
+  color: #dba259;
   font-weight: 900;
 }
 
@@ -530,7 +530,7 @@ section.why-us {
   cursor: pointer;
   outline: 0;
   padding-bottom: 30px;
-  color: #fff;
+  color: #dba259;
   text-decoration: none;
   text-transform: uppercase;
   position: relative;
@@ -563,6 +563,7 @@ section.why-us {
   margin-bottom: 0.75em;
 }
 #tabs ul .ui-tabs-active {
+
 }
 #tabs ul .ui-tabs-active a {
   color: #000000;
@@ -580,12 +581,12 @@ section.why-us {
     font-size: 32px;
     font-weight: 700;
     letter-spacing: 1px;
-    color: #fff;
+    color: #dba252;
     margin-bottom: 30px;
 }
 
 #tabs p {
-    color: #fff;
+    color: #dba252;
     font-size: 15px;
     line-height: 28px;
 }
