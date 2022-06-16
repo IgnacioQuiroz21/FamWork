@@ -58,7 +58,7 @@ p {
     position: relative;
     font-size: 18px;
     font-weight: 500;
-    color: #dba252;
+    color: #ffffff;
     letter-spacing: 0.5px;
     display: inline-block;
     padding: 15px 20px;
@@ -530,7 +530,7 @@ section.why-us {
   cursor: pointer;
   outline: 0;
   padding-bottom: 30px;
-  color: #dba259;
+  color: #ffffff;
   text-decoration: none;
   text-transform: uppercase;
   position: relative;
@@ -581,12 +581,12 @@ section.why-us {
     font-size: 32px;
     font-weight: 700;
     letter-spacing: 1px;
-    color: #dba252;
+    color: #ffffff;
     margin-bottom: 30px;
 }
 
 #tabs p {
-    color: #dba252;
+    color: #ffffff;
     font-size: 15px;
     line-height: 28px;
 }
