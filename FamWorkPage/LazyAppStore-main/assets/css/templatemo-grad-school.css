@@ -69,8 +69,8 @@ p {
 /* Buttons */
 
 .main-button a {
-    background-color: #73ff00;
-    color: #fff;
+    background-color: #1eff008a;
+    color: rgba(255, 255, 255, 0);
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
